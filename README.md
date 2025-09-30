@@ -1,5 +1,5 @@
 # awesome-c-ecosystem
-A survey of the smaller known C compilers and libc implementations
+A survey of the smaller known C compilers and libc implementations necessary for maintaining JACLibc and comparing to other uses. For the time being this is mostly just there but in time it should grow.
 
 ## Compilers
 
